@@ -1,8 +1,3 @@
-#profile-title: base64:0JrQvtGCINCy0L/QvSDRgdC60L7RgNC+0YHRgtC90L7QuSDRgNC10LbQuNC8IPCfmLrwn5CI4oCN4qyb8J+UpfCfmoA=
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/catktsuser/vpncat
-#profile-web-page-url: https://github.com/catktsuser/vpncat
 vless://32822411-b9c9-4e6e-9a39-8517ee809dc7@catloveminecraftrussian.mooo.com:8855?type=ws&encryption=none&path=%2Fhello%2Fmylovecat%2Fcat%2Flove%2Fcatwhite&host=catmylove.mooo.com&security=tls&fp=chrome&alpn=&sni=catloveminecraftrussian.mooo.com#Аварильная-1 cloud.ru 🇷🇺
 vless://145cac7e-f029-4032-8ad3-c39264ce1324@catloveminecraftrussian.mooo.com:8855?type=ws&encryption=none&path=%2Fhello%2Fmylovecat%2Fcat%2Flove%2Fcatwhite&host=catmylove.mooo.com&security=tls&fp=chrome&alpn=&sni=catloveminecraftrussian.mooo.com#Аварильная-2 cloudfare 🇷🇺
 vless://ac57b275-ae4b-4aec-ad03-58d6128ea5e2@catloveminecraftrussian.mooo.com:5588?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=aQHWsPod-3vQGkR5LcYXOaM_69Mh_v0RByTivfBNY10&fp=chrome&sni=catloveminecraftrussian.mooo.com&sid=8da80bc25039242d&spx=%2F#Дом-1 cloud.ru 🇷🇺
